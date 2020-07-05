@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="SjukaG" name="LeapFingerCountingUiDemo" projectType="guiapp"
+              jucerVersion="5.4.7">
+  <MAINGROUP id="PtreUQ" name="LeapFingerCountingUiDemo">
+    <GROUP id="{6E58B0A7-C1D0-1C89-3CD0-D2AC9086604A}" name="Source">
+      <FILE id="gcTWsd" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+      <FILE id="LeHKdI" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="fYmmvm" name="MainComponent.cpp" compile="1" resource="0"
+            file="Source/MainComponent.cpp"/>
+      <FILE id="fVyhcL" name="LeapButton.h" compile="0" resource="0" file="Source/LeapButton.h"/>
+      <FILE id="nX451C" name="LeapButton.cpp" compile="1" resource="0" file="Source/LeapButton.cpp"/>
+      <FILE id="U8WTfP" name="LeapSlider.h" compile="0" resource="0" file="Source/LeapSlider.h"/>
+      <FILE id="bZgFPq" name="LeapSlider.cpp" compile="1" resource="0" file="Source/LeapSlider.cpp"/>
+      <FILE id="aJ3URO" name="LeapControlViewComponent.h" compile="0" resource="0"
+            file="Source/LeapControlViewComponent.h"/>
+      <FILE id="va8m6M" name="LeapControlViewComponent.cpp" compile="1" resource="0"
+            file="Source/LeapControlViewComponent.cpp"/>
+      <FILE id="F3sBzp" name="StartPageComponent.h" compile="0" resource="0"
+            file="Source/StartPageComponent.h"/>
+      <FILE id="NtY1T5" name="StartPageComponent.cpp" compile="1" resource="0"
+            file="Source/StartPageComponent.cpp"/>
+      <FILE id="nIb7ms" name="ScanPageComponent.h" compile="0" resource="0"
+            file="Source/ScanPageComponent.h"/>
+      <FILE id="Dbasxo" name="ScanPageComponent.cpp" compile="1" resource="0"
+            file="Source/ScanPageComponent.cpp"/>
+      <FILE id="DoDEfB" name="SelectItemComponent.h" compile="0" resource="0"
+            file="Source/SelectItemComponent.h"/>
+      <FILE id="bv83gR" name="SelectItemComponent.cpp" compile="1" resource="0"
+            file="Source/SelectItemComponent.cpp"/>
+      <FILE id="teLlhK" name="PaymentComponent.h" compile="0" resource="0"
+            file="Source/PaymentComponent.h"/>
+      <FILE id="dA2TgU" name="PaymentComponent.cpp" compile="1" resource="0"
+            file="Source/PaymentComponent.cpp"/>
+      <FILE id="A8s9wp" name="FinishedComponent.h" compile="0" resource="0"
+            file="Source/FinishedComponent.h"/>
+      <FILE id="mxj7jy" name="FinishedComponent.cpp" compile="1" resource="0"
+            file="Source/FinishedComponent.cpp"/>
+    </GROUP>
+    <GROUP id="{25AA1E38-B9F8-8B2E-3583-91D4876D9E1D}" name="LeapSDK">
+      <GROUP id="{95696AD0-33AE-6454-BED9-D3534781C42A}" name="include">
+        <FILE id="G6pDHN" name="Leap.h" compile="0" resource="0" file="LeapSDK/include/Leap.h"/>
+        <FILE id="wIPal2" name="LeapMath.h" compile="0" resource="0" file="LeapSDK/include/LeapMath.h"/>
+      </GROUP>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX" externalLibraries="Leap" postbuildCommand=" cp -f ../../LeapSDK/lib/libLeap.dylib &quot;${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_FOLDER_PATH}&quot;">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" headerPath="../../LeapSDK/include" libraryPath="../../LeapSDK/lib"/>
+        <CONFIGURATION isDebug="0" name="Release" headerPath="../../LeapSDK/include"
+                       libraryPath="../../LeapSDK/lib"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../../../Development/libs/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../Development/libs/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../Development/libs/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../Development/libs/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../Development/libs/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../Development/libs/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../../Development/libs/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+</JUCERPROJECT>

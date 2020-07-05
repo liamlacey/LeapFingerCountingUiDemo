@@ -1,0 +1,853 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		C17914FDA28176609135A401 = {
+			isa = PBXBuildFile;
+			fileRef = 57645FA89E133E99B2D97FA8;
+		};
+		E40E1B92EB3D06DC31DDAE80 = {
+			isa = PBXBuildFile;
+			fileRef = 56E963891F61F5E073D90CC5;
+		};
+		3C4F803383F1DC9AEE613C34 = {
+			isa = PBXBuildFile;
+			fileRef = 7FC1A5AB7AE80CFEFE1F78A2;
+		};
+		0ADA378C2F96A0D7ED8360DE = {
+			isa = PBXBuildFile;
+			fileRef = A38A614B74233631CD2DF36F;
+		};
+		4E1661DA5B0458C1D13855DB = {
+			isa = PBXBuildFile;
+			fileRef = B52759DD6F643FA731355C9F;
+		};
+		D6E98E57FFE6135D6DD20284 = {
+			isa = PBXBuildFile;
+			fileRef = 55823781D9977F1CAD56FB5A;
+		};
+		DA42EBC3B3438067F4EC599B = {
+			isa = PBXBuildFile;
+			fileRef = 0A5B3D15F9AF704F9485A9B4;
+		};
+		40A27726747F593A57A41FC1 = {
+			isa = PBXBuildFile;
+			fileRef = CE7DF5C5862C1D3AFDB9FE0A;
+		};
+		8BDB18DD2B8AE8BA3978A293 = {
+			isa = PBXBuildFile;
+			fileRef = 4520BAD85335B0E05BAF029A;
+		};
+		809B981067A3D363D336373D = {
+			isa = PBXBuildFile;
+			fileRef = 3FABA662BE6F745422C28FBD;
+		};
+		BE9A16C7DB3359EF09739630 = {
+			isa = PBXBuildFile;
+			fileRef = C10C3F86163251B8F51680AC;
+		};
+		BFF59ADBE7A2B90EDFEEED44 = {
+			isa = PBXBuildFile;
+			fileRef = 651E8C125334D17D87A122D7;
+		};
+		C11BEB304A9BE1226B679A01 = {
+			isa = PBXBuildFile;
+			fileRef = 4E1AAC0104C6860E4BFB87D3;
+		};
+		435F55F0F4E39F9B473F2F1F = {
+			isa = PBXBuildFile;
+			fileRef = 0048A1B9250100436D83E65B;
+		};
+		B21DFBC46EC2C778D5C71F74 = {
+			isa = PBXBuildFile;
+			fileRef = 705877A9E491FF9D202C5007;
+		};
+		475AC4AE2B75DE45BB0223F1 = {
+			isa = PBXBuildFile;
+			fileRef = B16413AFBF6D582B73A93756;
+		};
+		82FDBB426705E241C84CA9FE = {
+			isa = PBXBuildFile;
+			fileRef = C0BFB7B85C194925FEC1D52A;
+		};
+		2C502137F41B1846B6B515C5 = {
+			isa = PBXBuildFile;
+			fileRef = 5293958E85C8F0B5AD488221;
+		};
+		DF31F70834950E4725F2FA21 = {
+			isa = PBXBuildFile;
+			fileRef = C622ED75C0A1FA2678FC5ED8;
+		};
+		134108F02C68C431103B810E = {
+			isa = PBXBuildFile;
+			fileRef = 2F1B5B873A8FCAE841DD8E72;
+		};
+		3F91BE3F2E6FBBFDBEF0564A = {
+			isa = PBXBuildFile;
+			fileRef = 132E1324C8268438D6AC7E7D;
+		};
+		465A6C0BAE251C460A391B13 = {
+			isa = PBXBuildFile;
+			fileRef = E061EB33838AE61C0E97D562;
+		};
+		06D52A3D74975468B46D5658 = {
+			isa = PBXBuildFile;
+			fileRef = DFB3F881FF59CC8B9211B317;
+		};
+		3B9D8A704F3A2B1D3A157D3E = {
+			isa = PBXBuildFile;
+			fileRef = F901693C8DC2A6268AEEB457;
+		};
+		F65A6B821BE1AFA88D303088 = {
+			isa = PBXBuildFile;
+			fileRef = 19A63CEBAAA36D4BCA927E6E;
+		};
+		0048A1B9250100436D83E65B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = StartPageComponent.cpp;
+			path = ../../Source/StartPageComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		0A5B3D15F9AF704F9485A9B4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = System/Library/Frameworks/WebKit.framework;
+			sourceTree = SDKROOT;
+		};
+		132E1324C8268438D6AC7E7D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_events.mm";
+			path = "../../JuceLibraryCode/include_juce_events.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		19A63CEBAAA36D4BCA927E6E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_opengl.mm";
+			path = "../../JuceLibraryCode/include_juce_opengl.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		277D09D5E192D7BC7A82F77B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = LeapControlViewComponent.h;
+			path = ../../Source/LeapControlViewComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		29DB62E2E780D5B7DD06A688 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = FinishedComponent.h;
+			path = ../../Source/FinishedComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		2F1B5B873A8FCAE841DD8E72 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_data_structures.mm";
+			path = "../../JuceLibraryCode/include_juce_data_structures.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		30CD9A877E7FF0B6386FF37E = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = SelectItemComponent.h;
+			path = ../../Source/SelectItemComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		36E3D7A2D09A6D1D9B89BD35 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = LeapSlider.h;
+			path = ../../Source/LeapSlider.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		3FABA662BE6F745422C28FBD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = MainComponent.cpp;
+			path = ../../Source/MainComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		4520BAD85335B0E05BAF029A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = Main.cpp;
+			path = ../../Source/Main.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		4E1AAC0104C6860E4BFB87D3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = LeapControlViewComponent.cpp;
+			path = ../../Source/LeapControlViewComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		5293958E85C8F0B5AD488221 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = FinishedComponent.cpp;
+			path = ../../Source/FinishedComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		55823781D9977F1CAD56FB5A = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = QuartzCore.framework;
+			path = System/Library/Frameworks/QuartzCore.framework;
+			sourceTree = SDKROOT;
+		};
+		56E963891F61F5E073D90CC5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = System/Library/Frameworks/Carbon.framework;
+			sourceTree = SDKROOT;
+		};
+		57645FA89E133E99B2D97FA8 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = LeapFingerCountingUiDemo.app;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		5818A46D39E91D89349340CA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = Leap.h;
+			path = ../../LeapSDK/include/Leap.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		651E8C125334D17D87A122D7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = LeapSlider.cpp;
+			path = ../../Source/LeapSlider.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		705877A9E491FF9D202C5007 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = ScanPageComponent.cpp;
+			path = ../../Source/ScanPageComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		7299E611B3EC7C69F94EFE59 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = AppConfig.h;
+			path = ../../JuceLibraryCode/AppConfig.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		76005A74716C7AA1A5AE0998 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = LeapMath.h;
+			path = ../../LeapSDK/include/LeapMath.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		7FC1A5AB7AE80CFEFE1F78A2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = System/Library/Frameworks/Cocoa.framework;
+			sourceTree = SDKROOT;
+		};
+		812530365B292E8B8B2BE8D8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_opengl";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_opengl";
+			sourceTree = "<absolute>";
+		};
+		82143A25CE4C7F9291297E3A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PaymentComponent.h;
+			path = ../../Source/PaymentComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		8BFE81659CB6D7BFE2919910 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = ScanPageComponent.h;
+			path = ../../Source/ScanPageComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		9788A0BA3932875B44ABD9C1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_data_structures";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_data_structures";
+			sourceTree = "<absolute>";
+		};
+		A184B74615BDAD519346DA24 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = LeapButton.h;
+			path = ../../Source/LeapButton.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		A38A614B74233631CD2DF36F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = IOKit.framework;
+			path = System/Library/Frameworks/IOKit.framework;
+			sourceTree = SDKROOT;
+		};
+		ACBC9C10DBBAEB3FE4D538AE = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_extra";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_gui_extra";
+			sourceTree = "<absolute>";
+		};
+		B16413AFBF6D582B73A93756 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = SelectItemComponent.cpp;
+			path = ../../Source/SelectItemComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		B52759DD6F643FA731355C9F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = OpenGL.framework;
+			path = System/Library/Frameworks/OpenGL.framework;
+			sourceTree = SDKROOT;
+		};
+		C03840F40EAE7BAF7F384C12 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_graphics";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_graphics";
+			sourceTree = "<absolute>";
+		};
+		C0BFB7B85C194925FEC1D52A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PaymentComponent.cpp;
+			path = ../../Source/PaymentComponent.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C10C3F86163251B8F51680AC = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = LeapButton.cpp;
+			path = ../../Source/LeapButton.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C17FB2E6BD44E1890E5605DD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = StartPageComponent.h;
+			path = ../../Source/StartPageComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C622ED75C0A1FA2678FC5ED8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_core.mm";
+			path = "../../JuceLibraryCode/include_juce_core.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		CBE302B5143A10931ED51F17 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-App.plist";
+			path = "Info-App.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		CE7DF5C5862C1D3AFDB9FE0A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.nib;
+			name = RecentFilesMenuTemplate.nib;
+			path = RecentFilesMenuTemplate.nib;
+			sourceTree = "SOURCE_ROOT";
+		};
+		DAF1327C10DB8926F2A78A3C = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JuceHeader.h;
+			path = ../../JuceLibraryCode/JuceHeader.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		DFB3F881FF59CC8B9211B317 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E061EB33838AE61C0E97D562 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_graphics.mm";
+			path = "../../JuceLibraryCode/include_juce_graphics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E697FB1FD7972005BB507CF0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = MainComponent.h;
+			path = ../../Source/MainComponent.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		EA9153B91D4ACA4236F97303 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_events";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_events";
+			sourceTree = "<absolute>";
+		};
+		F382320CAC0E04B226E60FE6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_core";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_core";
+			sourceTree = "<absolute>";
+		};
+		F901693C8DC2A6268AEEB457 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_extra.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_extra.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		FE276851D84840460E6C5B1A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_basics";
+			path = "/Users/Liam/Development/libs/JUCE/modules/juce_gui_basics";
+			sourceTree = "<absolute>";
+		};
+		DC6197AB4D34205F53BD0906 = {
+			isa = PBXGroup;
+			children = (
+				4520BAD85335B0E05BAF029A,
+				E697FB1FD7972005BB507CF0,
+				3FABA662BE6F745422C28FBD,
+				A184B74615BDAD519346DA24,
+				C10C3F86163251B8F51680AC,
+				36E3D7A2D09A6D1D9B89BD35,
+				651E8C125334D17D87A122D7,
+				277D09D5E192D7BC7A82F77B,
+				4E1AAC0104C6860E4BFB87D3,
+				C17FB2E6BD44E1890E5605DD,
+				0048A1B9250100436D83E65B,
+				8BFE81659CB6D7BFE2919910,
+				705877A9E491FF9D202C5007,
+				30CD9A877E7FF0B6386FF37E,
+				B16413AFBF6D582B73A93756,
+				82143A25CE4C7F9291297E3A,
+				C0BFB7B85C194925FEC1D52A,
+				29DB62E2E780D5B7DD06A688,
+				5293958E85C8F0B5AD488221,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		F1E3F764925D749BA13C5C9E = {
+			isa = PBXGroup;
+			children = (
+				5818A46D39E91D89349340CA,
+				76005A74716C7AA1A5AE0998,
+			);
+			name = include;
+			sourceTree = "<group>";
+		};
+		159EC14033FAF2244CDA351C = {
+			isa = PBXGroup;
+			children = (
+				F1E3F764925D749BA13C5C9E,
+			);
+			name = LeapSDK;
+			sourceTree = "<group>";
+		};
+		FE78D65C9FD7D83F3BB50EFE = {
+			isa = PBXGroup;
+			children = (
+				DC6197AB4D34205F53BD0906,
+				159EC14033FAF2244CDA351C,
+			);
+			name = LeapFingerCountingUiDemo;
+			sourceTree = "<group>";
+		};
+		FCE8B629A42E0C234324C7F9 = {
+			isa = PBXGroup;
+			children = (
+				F382320CAC0E04B226E60FE6,
+				9788A0BA3932875B44ABD9C1,
+				EA9153B91D4ACA4236F97303,
+				C03840F40EAE7BAF7F384C12,
+				FE276851D84840460E6C5B1A,
+				ACBC9C10DBBAEB3FE4D538AE,
+				812530365B292E8B8B2BE8D8,
+			);
+			name = "JUCE Modules";
+			sourceTree = "<group>";
+		};
+		5DD2AA816E7428FA5AB673FD = {
+			isa = PBXGroup;
+			children = (
+				7299E611B3EC7C69F94EFE59,
+				C622ED75C0A1FA2678FC5ED8,
+				2F1B5B873A8FCAE841DD8E72,
+				132E1324C8268438D6AC7E7D,
+				E061EB33838AE61C0E97D562,
+				DFB3F881FF59CC8B9211B317,
+				F901693C8DC2A6268AEEB457,
+				19A63CEBAAA36D4BCA927E6E,
+				DAF1327C10DB8926F2A78A3C,
+			);
+			name = "JUCE Library Code";
+			sourceTree = "<group>";
+		};
+		39451614B7CD4252AE219ADA = {
+			isa = PBXGroup;
+			children = (
+				CBE302B5143A10931ED51F17,
+				CE7DF5C5862C1D3AFDB9FE0A,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		D50497FC38F77D34A2B656F4 = {
+			isa = PBXGroup;
+			children = (
+				56E963891F61F5E073D90CC5,
+				7FC1A5AB7AE80CFEFE1F78A2,
+				A38A614B74233631CD2DF36F,
+				B52759DD6F643FA731355C9F,
+				55823781D9977F1CAD56FB5A,
+				0A5B3D15F9AF704F9485A9B4,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CBD7C6D2A45370254D9E62A2 = {
+			isa = PBXGroup;
+			children = (
+				57645FA89E133E99B2D97FA8,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1A666EBAA5EF69AF9B822519 = {
+			isa = PBXGroup;
+			children = (
+				FE78D65C9FD7D83F3BB50EFE,
+				FCE8B629A42E0C234324C7F9,
+				5DD2AA816E7428FA5AB673FD,
+				39451614B7CD4252AE219ADA,
+				D50497FC38F77D34A2B656F4,
+				CBD7C6D2A45370254D9E62A2,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		BA848A3F84689A8CD0546E92 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"../../JuceLibraryCode",
+					"/Users/Liam/Development/libs/JUCE/modules",
+					"../../LeapSDK/include",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-App.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"../../LeapSDK/lib\"",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-lLeap";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.LeapFingerCountingUiDemo;
+				PRODUCT_NAME = "LeapFingerCountingUiDemo";
+				USE_HEADERMAP = NO;
+			};
+			name = Debug;
+		};
+		E806C53D1E57BE79FD58C3A0 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"../../JuceLibraryCode",
+					"/Users/Liam/Development/libs/JUCE/modules",
+					"../../LeapSDK/include",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-App.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"../../LeapSDK/lib\"",
+				);
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-lLeap";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.LeapFingerCountingUiDemo;
+				PRODUCT_NAME = "LeapFingerCountingUiDemo";
+				USE_HEADERMAP = NO;
+			};
+			name = Release;
+		};
+		FA18D40B91617B680C0C6430 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "LeapFingerCountingUiDemo";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Debug;
+		};
+		213620F22F7FDF14ACDA1407 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PRODUCT_NAME = "LeapFingerCountingUiDemo";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		F379896A5233CEE838ED5908 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA18D40B91617B680C0C6430,
+				213620F22F7FDF14ACDA1407,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F7B5A6F93555B4B71A4EE45C = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA848A3F84689A8CD0546E92,
+				E806C53D1E57BE79FD58C3A0,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		92D97A781A8428760F16153F = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				40A27726747F593A57A41FC1,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2B92572EDFEDA901C402A93E = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8BDB18DD2B8AE8BA3978A293,
+				809B981067A3D363D336373D,
+				BE9A16C7DB3359EF09739630,
+				BFF59ADBE7A2B90EDFEEED44,
+				C11BEB304A9BE1226B679A01,
+				435F55F0F4E39F9B473F2F1F,
+				B21DFBC46EC2C778D5C71F74,
+				475AC4AE2B75DE45BB0223F1,
+				82FDBB426705E241C84CA9FE,
+				2C502137F41B1846B6B515C5,
+				DF31F70834950E4725F2FA21,
+				134108F02C68C431103B810E,
+				3F91BE3F2E6FBBFDBEF0564A,
+				465A6C0BAE251C460A391B13,
+				06D52A3D74975468B46D5658,
+				3B9D8A704F3A2B1D3A157D3E,
+				F65A6B821BE1AFA88D303088,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DC7E7AA590A7A71BC568A10 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E40E1B92EB3D06DC31DDAE80,
+				3C4F803383F1DC9AEE613C34,
+				0ADA378C2F96A0D7ED8360DE,
+				4E1661DA5B0458C1D13855DB,
+				D6E98E57FFE6135D6DD20284,
+				DA42EBC3B3438067F4EC599B,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		03FF132E1F1829304EEEBE00 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = ( );
+			runOnlyForDeploymentPostprocessing = 0;
+			name = "Post-build script";
+			shellPath = /bin/sh;
+			shellScript = " cp -f ../../LeapSDK/lib/libLeap.dylib \"${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_FOLDER_PATH}\"";
+		};
+		D52BAF269AD258A76D19C545 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F7B5A6F93555B4B71A4EE45C;
+			buildPhases = (
+				92D97A781A8428760F16153F,
+				2B92572EDFEDA901C402A93E,
+				3DC7E7AA590A7A71BC568A10,
+				03FF132E1F1829304EEEBE00,
+			);
+			buildRules = ( );
+			dependencies = ( );
+			name = "LeapFingerCountingUiDemo - App";
+			productName = LeapFingerCountingUiDemo;
+			productReference = 57645FA89E133E99B2D97FA8;
+			productType = "com.apple.product-type.application";
+		};
+		80DBA8E1E39C12D9C718FD7B = {
+			isa = PBXProject;
+			buildConfigurationList = F379896A5233CEE838ED5908;
+			attributes = { LastUpgradeCheck = 1100; ORGANIZATIONNAME = ""; TargetAttributes = { D52BAF269AD258A76D19C545 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; }; }; };
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 1A666EBAA5EF69AF9B822519;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (D52BAF269AD258A76D19C545);
+			knownRegions = (en, Base);
+		};
+	};
+	rootObject = 80DBA8E1E39C12D9C718FD7B;
+}
