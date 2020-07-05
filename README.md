@@ -10,4 +10,4 @@ To build LeapFingerCountingUiDemo you will need to do the following:
 
 ## License ##
 
-LeapFingerCountingUiDemo is licensed under Apache 2.0. See LICENSE for more details.
+LeapFingerCountingUiDemo is licensed under Apache 2.0. See [LICENSE](https://github.com/liamlacey/LeapFingerCountingUiDemo/blob/master/LICENSE) for more details.
